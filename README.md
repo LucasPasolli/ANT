@@ -1,1 +1,1 @@
-- [Trabajo Práctico N° 1: Sistemas de control de versiones.](Trabajo Práctico N° 1 Sistemas de control de versiones.md)
+- [Trabajo Práctico N° 1: Sistemas de control de versiones.](TPN1.md)
