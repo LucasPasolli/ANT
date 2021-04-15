@@ -75,9 +75,11 @@ $ git add .
 $ git commit -m "Cambios CV clon"
 $ git push
 
-#LOCAL: el archivo de la rama en la que se fusiona
-
-#REMOTE: el archivo en la rama desde donde se está fusionando
-
-#BASE: El ancestro común de $ LOCAL y $ REMOTE, es decir. el punto donde las dos ramas comenzaron a desviar el archivo considerado
 ```
+
+
+* LOCAL: el archivo de la rama en la que se fusiona
+
+* REMOTE: el archivo en la rama desde donde se está fusionando
+
+* BASE: El ancestro común de $ LOCAL y $ REMOTE, es decir. el punto donde las dos ramas comenzaron a desviar el archivo considerado
