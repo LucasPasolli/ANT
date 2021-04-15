@@ -39,13 +39,11 @@ $ git push -u origin main
 ```sh
 $ git checkout -b branchLocal
 $ touch pullrequest.md
-```
-![](<Imagenes/TPN1/1.png>)
-```
 $ git add .
 $ git commit -m "Adicion de archivo pullrequest.md"
 ```
-
+![](<Imagenes/TPN1/1.png>)
+![](<Imagenes/TPN1/2.png>)
 
 ### 5)
 ```sh
@@ -71,8 +69,9 @@ $ git clone https://github.com/LucasPasolli/TPN1-Sistemas-de-control-de-versione
 $ git add .
 $ git commit -m "Clon CV modificado"
 $ git push
-
-
+```
+![](<Imagenes/TPN1/3.png>)
+```
 $ git add .
 $ git commit -m "Cambios CV clon"
 $ git push
