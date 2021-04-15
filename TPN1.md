@@ -84,3 +84,10 @@ $ git push
 * REMOTE: el archivo en la rama desde donde se está fusionando
 
 * BASE: El ancestro común de $ LOCAL y $ REMOTE, es decir. el punto donde las dos ramas comenzaron a desviar el archivo considerado
+
+### 6) Algunos ejercicios online
+![](<Imagenes/TPN1/5.jpeg>)
+![](<Imagenes/TPN1/6.jpeg>)
+![](<Imagenes/TPN1/7.jpeg>)
+![](<Imagenes/TPN1/8.jpeg>)
+![](<Imagenes/TPN1/9.jpeg>)
