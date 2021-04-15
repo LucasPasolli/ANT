@@ -39,13 +39,13 @@ $ git push -u origin main
 ```sh
 $ git checkout -b branchLocal
 $ touch pullrequest.md
-
+```
 ![](<Imagenes/TPN1/1.png>)
-
+```
 $ git add .
 $ git commit -m "Adicion de archivo pullrequest.md"
-
 ```
+
 
 ### 5)
 ```sh
