@@ -63,19 +63,12 @@ $ git push
 $ git add .
 $ git commit -m "Cambios CV clon"
 $ git push
-
-$ git clone https://github.com/LucasPasolli/TPN1-Sistemas-de-control-de-versiones.git
-
-$ git add .
-$ git commit -m "Clon CV modificado"
-$ git push
 ```
 ![](<Imagenes/TPN1/3.png>)
 ```
 $ git add .
 $ git commit -m "Cambios CV clon"
 $ git push
-
 ```
 
 
