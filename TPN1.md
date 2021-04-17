@@ -50,11 +50,11 @@ $ git commit -m "Adicion de archivo pullrequest.md"
 $ git clone https://github.com/LucasPasolli/TPN1-Sistemas-de-control-de-versiones.git
 
 $ git add .
-$ git commit -m "Cambios en readme"
+$ git commit -m "Clon CV modificado"
 $ git push
 
 $ git add .
-$ git commit -m "Clon CV modificado"
+$ git commit -m "Cambios en readme"
 $ git push
 
 
