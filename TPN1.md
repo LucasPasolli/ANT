@@ -53,8 +53,6 @@ $ git add .
 $ git commit -m "Cambios en readme"
 $ git push
 
-*Se resuelve el problema en la pagina de github*
-
 $ git add .
 $ git commit -m "Clon CV modificado"
 $ git push
@@ -66,6 +64,8 @@ $ git push
 ```
 ![](<Imagenes/TPN1/3.png>)
 ```
+*Se resuelve el problema en la pagina de github*
+
 $ git add .
 $ git commit -m "Cambios CV clon"
 $ git push
